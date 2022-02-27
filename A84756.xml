@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fourteen articles of peace. Propounded to the king and Parliament by the gentry and commonalty of the county of Tork [sic]: being subscribed to by these knights and gentlemen, whose names are here specified, in the name of all the gentry and commonalty of the said county. VVherein is contained their resolution to maintain the peace of that county against all those that shall endeavour to disturb it. Also the copie of a letter sent from Prince Robert to His Majesty.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84756</idno>
+            <idno type="STC">Wing F1680</idno>
+            <idno type="STC">Thomason E119_29</idno>
+            <idno type="STC">ESTC R18003</idno>
+            <idno type="EEBO-CITATION">99860323</idno>
+            <idno type="PROQUEST">99860323</idno>
+            <idno type="VID">112443</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84756)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112443)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E119[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fourteen articles of peace. Propounded to the king and Parliament by the gentry and commonalty of the county of Tork [sic]: being subscribed to by these knights and gentlemen, whose names are here specified, in the name of all the gentry and commonalty of the said county. VVherein is contained their resolution to maintain the peace of that county against all those that shall endeavour to disturb it. Also the copie of a letter sent from Prince Robert to His Majesty.</title>
+                  <author>Crane, Sir.</author>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Blackmore,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octo. 4. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The Circumstances related by Master Crane who is knighted. He is .. Prince Ruperts Cornett" on p. 7-8.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Yorkshire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112443:1" rendition="simple:additions"/>
+            <p>Fourteen ARTICLES OF <hi>PEACE.</hi>
+            </p>
+            <p>Propounded to the King and Parlia<g ref="char:EOLhyphen"/>ment by the Gentry and Commonalty of the County of <hi>York:</hi> being ſubſcribed to by theſe Knights and Gentlemen, whoſe names are here ſpecified, in the name of all the Gentry and Commo<g ref="char:EOLhyphen"/>nalty of the ſaid County.</p>
+            <p>VVherein is contained their Reſolu<g ref="char:EOLhyphen"/>tion to maintain the peace of that County againſt all thoſe that ſhall endeavour to diſturb it.</p>
+            <p>Alſo the Copie of a Letter ſent from Prince <hi>Robert</hi> to His Majeſty.</p>
+            <p>LONDON, Printed for <hi>E. Blackmore.</hi> Octo. 4. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="article">
+            <pb facs="tcp:112443:2"/>
+            <head>Fourteen ARTICLES OF PEACE.</head>
+            <p n="1">1. <seg rend="decorInit">T</seg>Hat all Forces aſſembled together in any part of Yorkſhire, our Countie or City of York, ſhall be disbanded, and all thoſe under the conduct of Cap. <hi>Hotham,</hi> now in <hi>Doncaſter,</hi> and all other Forces in any o<g ref="char:EOLhyphen"/>ther part of the Countie, under any other Comman<g ref="char:EOLhyphen"/>ders, belonging to the Garriſon at Hull, ſhall retire to Hull with all ſpeed poſſible, and the ſaid Cap. <hi>Hotham</hi> ſhall begin to march from <hi>Doncaſter</hi> towards <hi>Hull</hi> on Saterday next.</p>
+            <p n="2">2. It is agreed that no hoſtile or violent act ſhall here<g ref="char:EOLhyphen"/>after be done by the Garriſon at <hi>Hull,</hi> either directly or indirectly, by pretence of any aid or aſſiſtance whatſo<g ref="char:EOLhyphen"/>ever, upon the perſons of any men within the Countie of York, or within the Countie or Citie of York, either upon the goods either in the Countie aforeſaid, or in the Countie of <hi>Kingſtone</hi> upon <hi>Hull.</hi>
+            </p>
+            <p n="3">
+               <pb facs="tcp:112443:2"/>3. It is agreed the Commiſſion of Array and orders or ordinances of Parliament for the <hi>Militia,</hi> be wholly ſuſpended in this Countie, untill ſuch time as ſome courſe be agreed upon for the ordering of the <hi>Militia</hi> for the King and Parliament, and this without diſputing the legality or illegality of either, but as finding nei<g ref="char:EOLhyphen"/>ther of them ſo neceſſary at this time as for the ſetting them on foot to involve this great County in bloud.</p>
+            <p n="4">4. It is agreed that no Commiſſion be impoſed upon this County, but ſuch as are legall, and preſented in good termes.</p>
+            <p n="5">5. It is agreed that no Ammunition, Forces whatſo<g ref="char:EOLhyphen"/>ever, ſhall be ſuffered to enter the Countie in a hoſtile manner, by vertue of any Pretence or Command what<g ref="char:EOLhyphen"/>ſoever; and they who ſhall attempt to doe it, the whole Countie ſhall riſe againſt them with force, as enemies againſt Peace, to be ſuppreſſed.</p>
+            <p n="6">6. It is agreed that if any carriage for the Houſhold either of the King or Queene be to paſſe this Countie, that to prevent all other armed Forces under pretence of ſuch a conduct to come amongſt us, we ſhall take or<g ref="char:EOLhyphen"/>der to ſee them quietly conducted by the Sheriffe of the Countie with ſuch a Convoy as he ſhall appoint, &amp; we like, and with no others. And if it ſhall happen the Queens Majeſty ſhall return out of <hi>Holland</hi> through this County, that we ſhall humbly beſeech her Majeſtie to forbear bringing with her any multitude of armed For<g ref="char:EOLhyphen"/>ces, but to beleeve we ſhall wait upon her Majeſty with ſuch a ſafe, honourable, and quiet Convoy, as ſhall be<g ref="char:EOLhyphen"/>fit our duty and her honour.</p>
+            <p n="7">7. It is agreed that if any warlike proviſion be deſi<g ref="char:EOLhyphen"/>red to be paſſed this County, that he would be pleaſed
+<pb facs="tcp:112443:3"/>
+to convey the ſame ſome other way, being it may be an occaſion to interrupt our peace.</p>
+            <p n="8">8. It is agreed that none ſhall be arreſted in this Countie as delinquents for either partie, but a legall, peaceable, and quiet way, that is, by the legall officers, and their Aſſiſtants onely, and not by armed men and ſouldiers, who may be an occaſion to bring fire a<g ref="char:EOLhyphen"/>mongſt us.</p>
+            <p n="9">9. It is agreed that whoſoever in this Countie ſhall be made appeare, either to be the author, contriver, or aſſiſting to the burning or pillaging Sir <hi>Edward Roods</hi> houſe, or any other mans houſe in the Countie, we ſhall ſee them if they be able to make reparation, and howe<g ref="char:EOLhyphen"/>ver to be brought to juſtice.</p>
+            <p n="10">10. It is agreed that a generall amity be made be<g ref="char:EOLhyphen"/>ween all the Gentlemen and others of this Countie of all former unkindneſſes and differences that have been bred by theſe unhappy diſtractions, and that we hereaf<g ref="char:EOLhyphen"/>ter will all be as one man to defend one another accor<g ref="char:EOLhyphen"/>ding to the Law, againſt all others, leaving all offences to be puniſhed by the law of the Land, and not by force or violence.</p>
+            <p n="11">11. It is agreed that it is intended by disbanding of the Armies, that his Majeſtie ſhall have all liberty for the removing all Canons and Ammunition, as he hath in this Countie.</p>
+            <p n="12">12. It is agreed that all the Arms which do belong to any of the Trained Bands of this County, which have had taken from them ſince 21. of this inſtant <hi>Septemb.</hi> by either partie, ſhall be preſently reſtored, and that Cap. <hi>Hotham</hi> ſhall leave behind him, and when he re<g ref="char:EOLhyphen"/>turnes into <hi>Hull</hi> all thoſe Braſſe Peeces belonging to
+<pb facs="tcp:112443:3"/>
+his Majeſty, which is now in <hi>Doncaſter,</hi> excepting ſuch as he himſelfe brought thither from Hull.</p>
+            <p n="13">13. It is agreed that no further Forces ſhall (during this difference betwixt the King and Parl.) be either raiſed in or payed by this County for this warre, other then ſuch as ſhall be already levied or really raiſed, and as ſuch alſo preſently to goe out of this County with<g ref="char:EOLhyphen"/>out raiſing any more.</p>
+            <p n="14">14. It is agreed that a humble Remonſtrance &amp; De<g ref="char:EOLhyphen"/>claration of theſe our Reſolutions be preſently ſent both to the King and Parliament, accompanied with a humble Petition from us all, that according as we have all unanimouſly agreed for our particular peace, ſo they would be pleaſed ſo far to commiſerate this diſtracted Kingdome to doe the ſame for the peace of the whole.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Henry Bellace.</item>
+                     <item>William Savill.</item>
+                     <item>Edw. Osborne.</item>
+                     <item>Iohn Romſden.</item>
+                     <item>Iohn Hopton.</item>
+                     <item>Francis Nevill</item>
+                     <item>Tho: Fairfax.</item>
+                     <item>Tho: Maliverey.</item>
+                     <item>Will. Lyſter.</item>
+                     <item>Tho. Stockdall.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:112443:4"/>
+            <head>A True Coppy of a LETTER ſent by Prince RUPERT to His MAJESTIE.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Bearer will with all the Circumſtances tell Your Majeſty our Proceedings at Worceſter I ſhall onely ſay this, That upon Your Majeſties Commands to ſuccour the Town, we went thither with our Forces and found the Rebels on both ſides of the Town, no Ammunition, nor nothing fitting to enter<g ref="char:EOLhyphen"/>tain ſo great a Force as the Lord of <hi>Eſſex</hi> would have brought that Night. But all things in ſo great a diſor<g ref="char:EOLhyphen"/>der, that certainly we had all been loſt, had we not by a great chance met with 10. Troops of their horſe, and five of their Dragooners; which we did entirely rout, and killed moſt of their chiefeſt Officers. The Man<g ref="char:EOLhyphen"/>ner and the Names, I leave for the ſaid Bearer to tell you. Your Majeſty will be pleaſed to accept this, as a beginning of Your Officers and my Duty; and I doubt not, as (certainly) they behaved themſelves all very bravely and gallantly, that hereafter Your Majeſty ſhall finde the ſame behaviour againſt a more conſiderable number. Of this Your Majeſty may be very confident, as alſo of the endeavours of</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your Majeſties Moſt Obedient Nephew and humble Servant, <hi>RUPERT.</hi>
+               </signed>
+               <dateline>From <hi>Bobfort</hi> 
+                  <date>this 24. of <hi>Sept.</hi> 1642</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account">
+            <pb facs="tcp:112443:4"/>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>This Gentleman hath behaved himſelfe ſo gallantly, That I muſt needes humbly deſire your Majeſty, to Knight him; which will encourage him and all others to continue the Affe<g ref="char:EOLhyphen"/>ction for Your Service.</p>
+            <div type="part">
+               <head>The Circumſtances Related by Maſter CRANE who is Knighted. He is (I heare) Prince RUPERTS Cornett.</head>
+               <p>THat at the firſt Charge, Prince <hi>Rupert,</hi> Prince <hi>Maurice,</hi> Maſter <hi>Foxe,</hi> and two more, charged and defeated a Troop, whom they knew not to be enemies till they were upon them, by their O<g ref="char:EOLhyphen"/>range colour Scarfes.</p>
+               <p>That ſeven Cornets are taken, ſome I ſaw.</p>
+               <p>That ſeverall Officers are kild on their ſide, particu<g ref="char:EOLhyphen"/>larly, <hi>Douglas</hi> and <hi>Sandis;</hi> that the laſt repented before his Death, for having borne Arms againſt the King.</p>
+               <p>That ſeverall Men are taken: as Captain <hi>Wingat</hi> of the Houſe of Commons, and others.</p>
+               <p>That we have but three kild in all.</p>
+               <p>That but three of ours of quality have beene hurt; Mr. <hi>Welmott</hi> in the back, and the worſt of any: but yet he marches in a coach and is merry, Sir <hi>Lewis Dives</hi> through the Shoulder. <hi>Mr. Byron</hi> (a Brother of Sir <hi>Johns</hi>) over the Face. I heare he hath ſaid, That Prince <hi>Maurice</hi> is a little hurt, but I underſtood him but thoſe three.</p>
+               <p>That <hi>Browne,</hi> who commanded in chiefe as Colonel of Dragooners, was one of the firſt that ran away.</p>
+               <p>That our men are very hearty with their Victory, &amp;
+<pb facs="tcp:112443:5"/>
+the ſpoyles of the killed (as Horſes, Armes, Buff-coats, Money in their pockets) &amp; the Enemie (as they heare) much diſheartned, and not likely to make ſo great haſte from about Worceſter as they meant.</p>
+            </div>
+         </div>
+         <div type="epigraph">
+            <head>THE CORNETTS MOTTOES.</head>
+            <q xml:lang="lat">
+               <l>PRo Rege &amp; Regno.</l>
+               <l>Exurgat &amp; Diſcipabuntur.</l>
+               <l>Pro Rege &amp; Religione,</l>
+               <l>Si pro Patria Morior non Moror.</l>
+            </q>
+            <p>The reſt ſo torne, the <hi>Mottoes</hi> could not bee Read.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
